@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Karim Mohammed Aboekl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-karim-aboelazm1/karim-aboelazm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Engineer Karim Mohammed Aboelazm
+👀 I’m interested in Programming , Designing
+🌱 I’m currently learning python , Django , Webdevelopment , Machinelearning
+💞️ I’m working in ITSS Consultant
+📫 How to reach me karimaboelazm6@gmail.com , 20912017100480@fci.zu.edu.eg
+📞 +201278789685
